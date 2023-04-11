@@ -55,11 +55,11 @@ public class MainActivity extends AppCompatActivity implements AppConfigTrigger.
     }
 
     void lock_app() {
-        startLockTask();
+        // startLockTask();
     }
 
     void unlock_app() {
-        stopLockTask();
+        // stopLockTask();
     }
 
     @Override
